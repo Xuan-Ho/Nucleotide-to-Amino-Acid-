@@ -31,6 +31,6 @@ public class test
     	System.out.println();
     	//print RNA to Amino Acid results
     	System.out.println("RNA to Amino Acid conversion : "+aa_string);
-
+        System.out.println();
     }
 }
