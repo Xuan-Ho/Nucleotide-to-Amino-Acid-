@@ -38,7 +38,7 @@ public class conversion
 
             
 
-    ///mRNA to Amino Acid Conversion
+    ////mRNA to Amino Acid Conversion
 	String rnaToAA (String rna) 
     {
 		rna = rna.toUpperCase();
@@ -171,7 +171,7 @@ public class conversion
                 // do nothing;
             }   
             
-            j= k;
+            j = k;
             k+=3;
         }       
 
