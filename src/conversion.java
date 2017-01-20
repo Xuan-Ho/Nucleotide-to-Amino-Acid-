@@ -11,7 +11,7 @@ public class conversion
 			
 	}
 	
-	//DNA 5'3' to mRNA Conversion
+	//Nucleotides (DNA 5'3' to mRNA Conversion)
 	String dnaToRNA (String dna) 
     {
 		dna = dna.toUpperCase();
